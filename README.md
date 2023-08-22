@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am Yuntao Zheng, who is currently pursuing the AIE-ECE master's degree in Carnegie Mellon University.
+I obtained my bachelor's degree in CS from Wuhan University.
 <!--
 **zhengyuntao123/zhengyuntao123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
