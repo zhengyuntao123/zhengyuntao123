@@ -1,5 +1,5 @@
 ### Hi there 👋
-😄 I am Yuntao Zheng.  
+⚡ I am Yuntao Zheng.  
 🌱 I obtained my bachelor's degree in CS at Wuhan University and master's degree in AIE-ECE at Carnegie Mellon University.  
 🔭 I’m currently working on ranking model improvement at TikTok.  
 <!--
